@@ -31,9 +31,3 @@ Future<String> fetchData() {
 
 // // Future<String> fetchData() {
 // //   print("Fetching Data...");
-
-// //   return Future.delayed(
-// //     Duration(seconds: 3),
-// //     () => "All Data Here",
-// //   );
-// // }
