@@ -20,14 +20,3 @@ Future<String> fetchData() {
   );
 }
 // ------------------------------------------------------------------
-// // void main() async {
-// //   print("Starting Async Block");
-
-// //   String futureData = await fetchData();
-// //   print(futureData);
-
-// //   print("Ending Synchronous Block");
-// // }
-
-// // Future<String> fetchData() {
-// //   print("Fetching Data...");
