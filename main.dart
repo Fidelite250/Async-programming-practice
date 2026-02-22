@@ -19,3 +19,20 @@ Future<String> fetchData() {
     () => "All Data Here",
   );
 }
+// void main() async {
+//   print("Starting Async Block");
+
+//   String futureData = await fetchData();
+//   print(futureData);
+
+//   print("Ending Synchronous Block");
+// }
+
+// Future<String> fetchData() {
+//   print("Fetching Data...");
+
+//   return Future.delayed(
+//     Duration(seconds: 3),
+//     () => "All Data Here",
+//   );
+// }
